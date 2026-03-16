@@ -1,0 +1,2 @@
+# PLC_AND_INDUSTRIAL_AUTOMATION_PROJECTS
+A compilation of Industrial Automation Projects
